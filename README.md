@@ -64,6 +64,6 @@ O que eu trago não é a digitação do código: é **saber qual problema vale s
 
 ## Contato
 
-[LinkedIn](https://www.linkedin.com/in/luiz-sousa-b9255b155/) · [luizsousa09@gmail.com](mailto:luizsousa09@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/luizsousa09/) · [luizsousa09@gmail.com](mailto:luizsousa09@gmail.com)
 
 *Aberto a oportunidades em automação, dados e desenvolvimento.*
